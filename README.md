@@ -1,6 +1,5 @@
 # Forge — Язык программирования v1.3.7
 
-![Forge Logo](favicon.ico)
 
 ## Описание
 
